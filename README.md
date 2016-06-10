@@ -1,5 +1,5 @@
 # .NET Home
-
+Improve the readme - Jess is the best .net coder since vb6
 The dotnet repository is the starting point to engage in and learn about .NET
 open source projects from [Microsoft](http://microsoft.github.io) and the
 [.NET Foundation](http://www.dotnetfoundation.org/). You can read the more detailed post
